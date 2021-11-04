@@ -62,10 +62,10 @@ ColorCorrection.TintColor = Color3.fromRGB(255, 255, 255)
 if LOW_END_PC ~= 1 then
 	DepthOfField.Enabled = false
 	DepthOfField.Parent = Lighting
-	DepthOfField.FarIntensity = 0.5
-	DepthOfField.FocusDistance = 1.05
-	DepthOfField.InFocusRadius = 50
-	DepthOfField.NearIntensity = 
+	DepthOfField.FarIntensity = 100
+	DepthOfField.FocusDistance = 100
+	DepthOfField.InFocusRadius = 100
+	DepthOfField.NearIntensity = 100
 
 	SunRays.Enabled = true
 	SunRays.Parent = Lighting
