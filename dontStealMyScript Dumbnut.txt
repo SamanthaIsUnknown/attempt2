@@ -8,7 +8,7 @@
 --*****************
 
 local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/SamanthaIsUnknown/attempt2/main/gui.txt")()
-local Window = Flux:Window("PCTools-UNK", "Press Z to open/close", Color3.fromRGB(232, 35, 157), Enum.KeyCode.Z)
+local Window = Flux:Window("PCTools-UNK", "Press F2 to open/close", Color3.fromRGB(232, 35, 157), Enum.KeyCode.F2)
 local mouse = game.Players.LocalPlayer:GetMouse()
 local uis = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
@@ -1051,3 +1051,4 @@ Tab6:Button("Shaders (Sunset)", "Cool shaders >~<, currently you can't change th
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/SamanthaIsUnknown/attempt2/main/djs.txt"))()
 end)
 
+print("Ready OwO")
