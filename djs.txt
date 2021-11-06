@@ -69,7 +69,7 @@ if LOW_END_PC ~= 1 then
 
 	SunRays.Enabled = true
 	SunRays.Parent = Lighting
-	SunRays.Intensity = 0.523
+	SunRays.Intensity = 0.28
 	SunRays.Spread = 1
 end
 
