@@ -1048,7 +1048,7 @@ Tab6:Button("Orbit 2", "Cool moving blocks >~<", function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/o7-Fire/Roblox-4/7a2bc0c0bed66a06d5196ae2562f5d32d6b0b252/plane-crazy/orbit_test2.lua"))()
 end)
 Tab6:Button("Shaders (Sunset)", "Cool shaders >~<, currently you can't change the time, but i'll work on it (Run at max graphics)", function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/SamanthaIsUnknown/attempt2/96684799b05b7465854541c994b8c9739edd38b7/djs.txt"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/SamanthaIsUnknown/attempt2/main/djs.txt"))()
 end)
 
 print("Ready OwO")
